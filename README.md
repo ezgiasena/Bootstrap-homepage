@@ -1,2 +1,3 @@
 # Bootstrap-homepage
-![proje](https://github.com/ezgiasena/Bootstrap-homepage/assets/128982114/fff155cd-eae0-4a74-9c13-bd966dab2763)
+
+![proje2](https://github.com/ezgiasena/Bootstrap-homepage/assets/128982114/e286b8da-3495-44b1-80ac-f12c03d5950a)
